@@ -3,7 +3,7 @@
 
 Fragments.
 
-**Technical task:**
+**Task:**
 
 Write an application to memorize the multiplication table. At the top - buttons for calling tables for 1,2,3,4,5,6,7,8,9,10. At the bottom - table for this number.
 
